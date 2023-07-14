@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @King-Of-Hell-07
+- 👋 Hi, I’m Ruban
+- 👻 I’m CSE student
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Django Framework
 - 💞️ I’m looking similar interested friends
